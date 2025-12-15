@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Powertailgate v01" version="4">
+  <OBJECT>
+    <ID name="Powertailgate v01" mc="Standard.Package" uid="db802d01-456b-4e08-afd2-e3c9d0c40c38"/>
+    <PID name="powertailgate" mc="Standard.Package" uid="a6d65256-0562-46f5-a14c-36191ae72c1f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Powertailgate v01]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SW_Reqmt_Spcfn" mc="Standard.Package" uid="50b76e71-9afc-411f-a45c-33ecce2ea223"/>
+        <COMPID name="SW_Archit" mc="Standard.Package" uid="011f9348-aae3-4851-bd94-02a6459e48a7"/>
+        <COMPID name="SW_DD" mc="Standard.Package" uid="f3f99738-f4e8-46f6-ab1b-fc3f8b3e8994"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

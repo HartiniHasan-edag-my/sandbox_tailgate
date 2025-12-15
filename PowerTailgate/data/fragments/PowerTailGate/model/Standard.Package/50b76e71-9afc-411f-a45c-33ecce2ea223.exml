@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SW_Reqmt_Spcfn" version="4">
+  <OBJECT>
+    <ID name="SW_Reqmt_Spcfn" mc="Standard.Package" uid="50b76e71-9afc-411f-a45c-33ecce2ea223"/>
+    <PID name="Powertailgate" mc="Standard.Package" uid="db802d01-456b-4e08-afd2-e3c9d0c40c38"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[SW_Reqmt_Spcfn]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <FOREIGNID name="View" mc="Infrastructure.Stereotype" uid="00bc42a4-0000-1a2d-0000-000000000000"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="900af691-b696-4f55-baaa-9ec23124e2e9"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Software-Requirement-Specification]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

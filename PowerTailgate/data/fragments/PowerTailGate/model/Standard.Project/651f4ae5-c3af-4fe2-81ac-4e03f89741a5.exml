@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="PowerTailGate" version="4">
+  <OBJECT>
+    <ID name="PowerTailGate" mc="Standard.Project" uid="651f4ae5-c3af-4fe2-81ac-4e03f89741a5"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[PowerTailGate]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="powertailgate" mc="Standard.Package" uid="a6d65256-0562-46f5-a14c-36191ae72c1f"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="PowerTailGate" mc="Infrastructure.DiagramSet" uid="ad6eda5f-874c-4fe5-b5eb-5565c704d462"/>
+      </COMP>
+      <COMP relation="Tag">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.TaggedValue" uid="52e31aae-f264-42a6-88fa-aa5991edd030"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Actual">
+              <OBJECT>
+                <ID name="" mc="Infrastructure.TagParameter" uid="66f8e45f-2429-48f8-8692-692331816675"/>
+                <ATTRIBUTES>
+                  <ATT name="Value"><![CDATA[4.0.00]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+            <LINK relation="Definition">
+              <FOREIGNID name="togaf.modelVersion" mc="Infrastructure.TagType" uid="8e820c6c-b121-4db6-a02b-6762820c3092"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

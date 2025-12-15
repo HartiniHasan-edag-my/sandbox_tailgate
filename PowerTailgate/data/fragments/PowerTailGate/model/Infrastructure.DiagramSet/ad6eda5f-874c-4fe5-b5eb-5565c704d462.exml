@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="PowerTailGate" version="4">
+  <OBJECT>
+    <ID name="PowerTailGate" mc="Infrastructure.DiagramSet" uid="ad6eda5f-874c-4fe5-b5eb-5565c704d462"/>
+    <PID name="PowerTailGate" mc="Standard.Project" uid="651f4ae5-c3af-4fe2-81ac-4e03f89741a5"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[PowerTailGate]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

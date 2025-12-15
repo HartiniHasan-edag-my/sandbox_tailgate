@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Open_Cls_Bttn" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Open_Cls_Bttn" mc="Standard.Package" uid="fb672138-cbfd-4628-be79-4714bcebcd29"/>
+    <PID name="Components" mc="Standard.Package" uid="1fef60cc-8440-4059-ade8-78d37c52dd2a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Open_Cls_Bttn]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SWA_Cpt_Diag" mc="Standard.Package" uid="ab526fc6-88a6-4b09-8238-c291d5524c50"/>
+        <COMPID name="SWA_Seq_Diag" mc="Standard.Package" uid="298d263c-fa6a-4193-aec4-22ab62000429"/>
+        <COMPID name="SWA_St_Mac_Diag" mc="Standard.Package" uid="50461d4a-c6c9-4539-bdff-c8873f0827fd"/>
+        <COMPID name="SWDD_Cpt_Diag" mc="Standard.Package" uid="8967ae2d-babe-49c5-9c26-7c69433c5622"/>
+        <COMPID name="SWDD_Seq_Diag" mc="Standard.Package" uid="e63ce646-79dd-448e-b4a2-72f77016bc4a"/>
+        <COMPID name="SWDD_St_Mac_Diag" mc="Standard.Package" uid="de649248-cf31-4f9c-a1f1-4b79280b24c6"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="acea64f5-5689-455b-8542-50f892228d62"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Component - Tailgate Open Close Button(s)]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Open_Cls_Btn" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Open_Cls_Btn" mc="Standard.Package" uid="bbd85e0d-1625-425c-9d1f-3d748cbcb040"/>
+    <PID name="SW_Archit" mc="Standard.Package" uid="011f9348-aae3-4851-bd94-02a6459e48a7"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Open_Cls_Btn]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cpt_diag" mc="Standard.Package" uid="6ddc730a-9764-4bff-9685-6f4ef2c75b31"/>
+        <COMPID name="Seq_Diag" mc="Standard.Package" uid="b25f9a18-ad5f-4f44-9ec8-6384a444ea47"/>
+        <COMPID name="St_Mac_Diag" mc="Standard.Package" uid="2eebe0ab-306c-4f0d-b8bf-71e4f1e4446f"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="b3124276-3277-4539-a672-40ce081304da"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Component - Tailgate Open Close Button(s)]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

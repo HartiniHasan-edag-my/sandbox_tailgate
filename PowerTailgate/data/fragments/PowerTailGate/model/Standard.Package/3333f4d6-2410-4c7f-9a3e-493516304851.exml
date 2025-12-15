@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Inp_Evln" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Inp_Evln" mc="Standard.Package" uid="3333f4d6-2410-4c7f-9a3e-493516304851"/>
+    <PID name="SW_DD" mc="Standard.Package" uid="f3f99738-f4e8-46f6-ab1b-fc3f8b3e8994"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Inp_Evln]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cpt_Diag" mc="Standard.Package" uid="61899077-e991-4f27-90e9-5cb56aa4172a"/>
+        <COMPID name="Seq_Diag" mc="Standard.Package" uid="ecc37248-97b8-4b78-b107-9a7b83edd6a8"/>
+        <COMPID name="St_Mac_Diag" mc="Standard.Package" uid="fbfdd29a-5f18-4e2c-a1f8-4261f5bd6607"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="9991e81a-66bf-4c0d-b002-05b818bb83c8"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Component - Tailgate Input Evaluation]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

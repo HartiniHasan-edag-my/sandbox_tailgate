@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Inp_Evln" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Inp_Evln" mc="Standard.Package" uid="757e56c5-05e1-4ddd-a562-5ef496e06f6c"/>
+    <PID name="Components" mc="Standard.Package" uid="1fef60cc-8440-4059-ade8-78d37c52dd2a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Inp_Evln]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SWA_Cpt_Diag" mc="Standard.Package" uid="575ce5aa-6e51-4b47-98d0-79c2083a5ff1"/>
+        <COMPID name="SWA_Seq_Diag" mc="Standard.Package" uid="5bc009ac-3907-45c4-8909-f865e5ddedb8"/>
+        <COMPID name="SWA_St_Mac_Diag" mc="Standard.Package" uid="09e09c48-e16e-444b-ad8a-1f453a269816"/>
+        <COMPID name="SWDD_Cpt_Diag" mc="Standard.Package" uid="8c783eb9-b80b-49cf-ba95-ba4b6de68351"/>
+        <COMPID name="SWDD_Seq_Diag" mc="Standard.Package" uid="2a6dfc80-71e7-45df-9a2a-069fcb30fe22"/>
+        <COMPID name="SWDD_St_Mac_Diag" mc="Standard.Package" uid="eaa6e567-250f-4f9f-aa65-a76df4cb5b9c"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="e75458ec-6d81-4472-b43d-cfea8f13121f"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Component - Tailgate Input Evaluation]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
