@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_lCky8NmjEfCj8sk4-Q_P1w" name="Seq_Diag">
+  <eAnnotations xmi:id="_lCky8dmjEfCj8sk4-Q_P1w" source="Objing">
+    <contents xmi:type="uml:Property" xmi:id="_lCky8tmjEfCj8sk4-Q_P1w" name="exporterVersion">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_lCky89mjEfCj8sk4-Q_P1w" value="3.0.0"/>
+    </contents>
+  </eAnnotations>
+  <ownedComment xmi:id="_lCky9NmjEfCj8sk4-Q_P1w">
+    <body>Sequence Diagram</body>
+  </ownedComment>
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_lCky9dmjEfCj8sk4-Q_P1w" name="Interaction">
+    <nestedClassifier xmi:type="uml:Collaboration" xmi:id="_lCky9tmjEfCj8sk4-Q_P1w" name="locals"/>
+    <lifeline xmi:id="_lCky99mjEfCj8sk4-Q_P1w" name="start" coveredBy="_lCky-tmjEfCj8sk4-Q_P1w _lCky_tmjEfCj8sk4-Q_P1w _lCkzBdmjEfCj8sk4-Q_P1w _lCkzBtmjEfCj8sk4-Q_P1w _lCkzB9mjEfCj8sk4-Q_P1w"/>
+    <lifeline xmi:id="_lCky-NmjEfCj8sk4-Q_P1w" name="mid" coveredBy="_lCky-9mjEfCj8sk4-Q_P1w _lCky_NmjEfCj8sk4-Q_P1w _lCky_dmjEfCj8sk4-Q_P1w _lCky_9mjEfCj8sk4-Q_P1w _lCkzA9mjEfCj8sk4-Q_P1w _lCkzBNmjEfCj8sk4-Q_P1w _lCkzCNmjEfCj8sk4-Q_P1w"/>
+    <lifeline xmi:id="_lCky-dmjEfCj8sk4-Q_P1w" name="end" coveredBy="_lCkzANmjEfCj8sk4-Q_P1w _lCkzAdmjEfCj8sk4-Q_P1w _lCkzAtmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCky-tmjEfCj8sk4-Q_P1w" covered="_lCky99mjEfCj8sk4-Q_P1w" message="_lCkzCdmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCky-9mjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzCdmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_lCky_NmjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" start="_lCky-9mjEfCj8sk4-Q_P1w" finish="_lCky_dmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCky_dmjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzCtmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCky_tmjEfCj8sk4-Q_P1w" covered="_lCky99mjEfCj8sk4-Q_P1w" message="_lCkzCtmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCky_9mjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzC9mjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzANmjEfCj8sk4-Q_P1w" covered="_lCky-dmjEfCj8sk4-Q_P1w" message="_lCkzC9mjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_lCkzAdmjEfCj8sk4-Q_P1w" covered="_lCky-dmjEfCj8sk4-Q_P1w" start="_lCkzANmjEfCj8sk4-Q_P1w" finish="_lCkzAtmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzAtmjEfCj8sk4-Q_P1w" covered="_lCky-dmjEfCj8sk4-Q_P1w" message="_lCkzDNmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzA9mjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzDNmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzBNmjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzDdmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzBdmjEfCj8sk4-Q_P1w" covered="_lCky99mjEfCj8sk4-Q_P1w" message="_lCkzDdmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_lCkzBtmjEfCj8sk4-Q_P1w" covered="_lCky99mjEfCj8sk4-Q_P1w" start="_lCkzBdmjEfCj8sk4-Q_P1w" finish="_lCkzB9mjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzB9mjEfCj8sk4-Q_P1w" covered="_lCky99mjEfCj8sk4-Q_P1w" message="_lCkzDtmjEfCj8sk4-Q_P1w"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lCkzCNmjEfCj8sk4-Q_P1w" covered="_lCky-NmjEfCj8sk4-Q_P1w" message="_lCkzDtmjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzCdmjEfCj8sk4-Q_P1w" receiveEvent="_lCky-9mjEfCj8sk4-Q_P1w" sendEvent="_lCky-tmjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzCtmjEfCj8sk4-Q_P1w" messageSort="reply" receiveEvent="_lCky_tmjEfCj8sk4-Q_P1w" sendEvent="_lCky_dmjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzC9mjEfCj8sk4-Q_P1w" receiveEvent="_lCkzANmjEfCj8sk4-Q_P1w" sendEvent="_lCky_9mjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzDNmjEfCj8sk4-Q_P1w" messageSort="reply" receiveEvent="_lCkzA9mjEfCj8sk4-Q_P1w" sendEvent="_lCkzAtmjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzDdmjEfCj8sk4-Q_P1w" receiveEvent="_lCkzBdmjEfCj8sk4-Q_P1w" sendEvent="_lCkzBNmjEfCj8sk4-Q_P1w"/>
+    <message xmi:id="_lCkzDtmjEfCj8sk4-Q_P1w" messageSort="reply" receiveEvent="_lCkzCNmjEfCj8sk4-Q_P1w" sendEvent="_lCkzB9mjEfCj8sk4-Q_P1w"/>
+  </packagedElement>
+  <profileApplication xmi:id="_lD1XMNmjEfCj8sk4-Q_P1w">
+    <eAnnotations xmi:id="_lD3MYNmjEfCj8sk4-Q_P1w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="sysml.profile.xmi#_lC3vUtmjEfCj8sk4-Q_P1w"/>
+    </eAnnotations>
+    <appliedProfile href="sysml.profile.xmi#_lC3vS9mjEfCj8sk4-Q_P1w"/>
+  </profileApplication>
+</uml:Model>
