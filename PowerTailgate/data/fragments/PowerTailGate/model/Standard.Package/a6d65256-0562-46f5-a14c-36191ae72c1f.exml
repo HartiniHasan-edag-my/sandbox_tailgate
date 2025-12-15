@@ -20,6 +20,9 @@
       <COMP relation="OwnedElement">
         <COMPID name="Powertailgate v01" mc="Standard.Package" uid="db802d01-456b-4e08-afd2-e3c9d0c40c38"/>
         <COMPID name="Powertailgate v02" mc="Standard.Package" uid="2b7760e3-714a-4a84-95f9-b90245bdc156"/>
+        <COMPID name="Business Layer" mc="Standard.Package" uid="2ceeaea3-93da-4c09-8449-87d4c59eafa8"/>
+        <COMPID name="Application Layer" mc="Standard.Package" uid="80994f45-5cf1-4110-b72b-51903e2c2ce0"/>
+        <COMPID name="Technology Architecture" mc="Standard.Package" uid="cb67e3c0-5bfa-450c-bfc6-19819a3ada45"/>
       </COMP>
       <LINK relation="Extension">
         <FOREIGNID name="TogafRoot" mc="Infrastructure.Stereotype" uid="374ea675-764e-11e0-8277-bc305ba4815c"/>

@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Business Layer" version="4">
+  <OBJECT>
+    <ID name="Business Layer" mc="Standard.Package" uid="2ceeaea3-93da-4c09-8449-87d4c59eafa8"/>
+    <PID name="powertailgate" mc="Standard.Package" uid="a6d65256-0562-46f5-a14c-36191ae72c1f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Business Layer]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Business Entities" mc="Standard.Package" uid="6e165918-4e62-4817-95a0-fcc51497019d"/>
+        <COMPID name="Business Architecture" mc="Standard.Package" uid="bef2a289-fe56-4e92-a02d-4f074aa2ff5e"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="BusinessLayer" mc="Infrastructure.Stereotype" uid="e39a3e8a-ab6c-11df-9861-0014224f9977"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="7b671247-ec30-423a-9f33-f0b0d9aabe42"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[The Business Layer domain contains the TOGAF Business architecture and Business Entities.
+It is decomposed into the Business Architecture domain and the Business Entities domain, where the models are developped.]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
