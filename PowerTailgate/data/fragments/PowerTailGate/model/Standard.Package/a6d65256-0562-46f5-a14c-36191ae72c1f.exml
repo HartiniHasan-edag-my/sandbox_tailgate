@@ -20,33 +20,7 @@
       <COMP relation="OwnedElement">
         <COMPID name="Powertailgate v01" mc="Standard.Package" uid="db802d01-456b-4e08-afd2-e3c9d0c40c38"/>
         <COMPID name="Powertailgate v02" mc="Standard.Package" uid="2b7760e3-714a-4a84-95f9-b90245bdc156"/>
-      </COMP>
-      <LINK relation="Extension">
-        <FOREIGNID name="TogafRoot" mc="Infrastructure.Stereotype" uid="374ea675-764e-11e0-8277-bc305ba4815c"/>
-      </LINK>
-      <COMP relation="Tag">
-        <OBJECT>
-          <ID name="" mc="Infrastructure.TaggedValue" uid="219426a7-3a40-4705-943a-026927bfbbcd"/>
-          <ATTRIBUTES>
-            <ATT name="Name"></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <COMP relation="Actual">
-              <OBJECT>
-                <ID name="" mc="Infrastructure.TagParameter" uid="ae3b4018-2b29-4f85-bb27-c752ee44a5c5"/>
-                <ATTRIBUTES>
-                  <ATT name="Value"></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-            </COMP>
-            <LINK relation="Definition">
-              <FOREIGNID name="TogafElement_reference" mc="Infrastructure.TagType" uid="fe3d304a-ab94-11df-9861-0014224f9977"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
+        <COMPID name="Technology Architecture" mc="Standard.Package" uid="90b4ca0c-a8ef-4bac-871a-984e4d86f3a1"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="powertailgate Folder Hierachy v01" mc="Standard.StaticDiagram" uid="94d5adc1-3224-4079-959d-697118189978"/>
