@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TailgateOpenCloseButton" version="4">
+  <OBJECT>
+    <ID name="TailgateOpenCloseButton" mc="Archimate.ArchimateProject" uid="088d7211-7c70-436e-9d01-5a3818a5e383"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[TailgateOpenCloseButton]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="cd80b4ac-23bf-4399-a866-73df7085eb63"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="b30f596c-d226-42aa-bbb2-201e2ab21ebe"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

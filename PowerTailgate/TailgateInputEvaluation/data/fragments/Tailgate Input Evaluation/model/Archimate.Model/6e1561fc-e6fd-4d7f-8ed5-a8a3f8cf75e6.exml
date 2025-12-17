@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Archimate.Model" uid="6e1561fc-e6fd-4d7f-8ed5-a8a3f8cf75e6"/>
+    <PID name="Tailgate Input Evaluation" mc="Archimate.ArchimateProject" uid="10b998e4-ea8e-4d61-a60e-1acef510aa73"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="folder">
+        <COMPID name="Application" mc="Archimate.ApplicationFolder" uid="9ab8562d-c137-4ec4-900f-7fd9d6c23c7f"/>
+        <COMPID name="Business" mc="Archimate.BusinessFolder" uid="c547c3a9-ad22-4e19-8e84-ceb45b2662cb"/>
+        <COMPID name="Implementation" mc="Archimate.ImplementationFolder" uid="83b0c8d1-def1-45a8-b961-b63bff35f338"/>
+        <COMPID name="Motivation" mc="Archimate.MotivationFolder" uid="d1c50396-71b5-4808-bec6-5d5fc5483d51"/>
+        <COMPID name="Physical" mc="Archimate.PhysicalFolder" uid="903cc8b6-18ab-4b55-ac7a-5d1c1fdcb8b5"/>
+        <COMPID name="Strategy" mc="Archimate.StrategyFolder" uid="7d044b26-914e-4220-8626-7f0aa6abd744"/>
+        <COMPID name="Technology" mc="Archimate.TechnologyFolder" uid="0e664bad-cba0-41a2-bd4e-b4e147bc49b3"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

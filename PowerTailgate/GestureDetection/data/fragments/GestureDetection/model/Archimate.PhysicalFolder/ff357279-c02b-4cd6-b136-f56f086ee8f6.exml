@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Physical" version="4">
+  <OBJECT>
+    <ID name="Physical" mc="Archimate.PhysicalFolder" uid="ff357279-c02b-4cd6-b136-f56f086ee8f6"/>
+    <PID name="Model" mc="Archimate.Model" uid="decc6af7-ad49-41c0-a6f7-26ef886ce798"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Physical]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

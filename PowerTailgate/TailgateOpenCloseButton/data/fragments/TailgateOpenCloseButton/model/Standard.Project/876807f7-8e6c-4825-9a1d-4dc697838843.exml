@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TailgateOpenCloseButton" version="4">
+  <OBJECT>
+    <ID name="TailgateOpenCloseButton" mc="Standard.Project" uid="876807f7-8e6c-4825-9a1d-4dc697838843"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[TailgateOpenCloseButton]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="tailgateopenclosebutton" mc="Standard.Package" uid="4f46435e-880c-4721-8eca-d6346f856f39"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="TailgateOpenCloseButton" mc="Infrastructure.DiagramSet" uid="af6d532d-3339-4adf-ade0-bb3abba6b14a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

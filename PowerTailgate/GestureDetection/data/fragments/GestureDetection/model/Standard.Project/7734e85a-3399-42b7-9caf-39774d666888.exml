@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GestureDetection" version="4">
+  <OBJECT>
+    <ID name="GestureDetection" mc="Standard.Project" uid="7734e85a-3399-42b7-9caf-39774d666888"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[GestureDetection]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Gesture_Detn" mc="Standard.Package" uid="e1ec0daa-44da-442a-9845-d6bf7dfda207"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="GestureDetection" mc="Infrastructure.DiagramSet" uid="a00999a4-6b0a-467a-af79-04771ebe10d2"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

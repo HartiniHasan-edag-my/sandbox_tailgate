@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="GestureDetection" version="4">
+  <OBJECT>
+    <ID name="GestureDetection" mc="Archimate.ArchimateProject" uid="868ec661-e1fd-4eb8-809d-c2ea85bd9cf9"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[GestureDetection]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="decc6af7-ad49-41c0-a6f7-26ef886ce798"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="a4d13205-f2cd-45bb-9f33-4b27e1da050d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

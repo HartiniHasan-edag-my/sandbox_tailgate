@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Open_Cls_Bttn" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Open_Cls_Bttn" mc="Standard.Package" uid="4f46435e-880c-4721-8eca-d6346f856f39"/>
+    <PID name="TailgateOpenCloseButton" mc="Standard.Project" uid="876807f7-8e6c-4825-9a1d-4dc697838843"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Open_Cls_Bttn]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SW_Reqmt_Spcfn" mc="Standard.Package" uid="c2b4e1dd-fd61-47a5-a686-97072173b1f2"/>
+        <COMPID name="SW_Archit" mc="Standard.Package" uid="f5a13f83-9ec4-4cbd-98e2-13357b6ca725"/>
+        <COMPID name="SW_DD" mc="Standard.Package" uid="8a1564bd-ce45-4ec9-8aee-e053da72561a"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Tailgate_Open_Cls_Bttn Package Diagram" mc="Standard.StaticDiagram" uid="6c53a710-f60f-4ba6-912c-3fcf5084b845"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="1e038beb-d537-4f30-804a-2ceb52fe8134"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Tailgate open close button(s) component design]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

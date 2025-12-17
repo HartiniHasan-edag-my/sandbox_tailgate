@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate Input Evaluation" version="4">
+  <OBJECT>
+    <ID name="Tailgate Input Evaluation" mc="Archimate.ArchimateProject" uid="10b998e4-ea8e-4d61-a60e-1acef510aa73"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Tailgate Input Evaluation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="model">
+        <COMPID name="Model" mc="Archimate.Model" uid="6e1561fc-e6fd-4d7f-8ed5-a8a3f8cf75e6"/>
+      </COMP>
+      <COMP relation="viewPoints">
+        <COMPID name="ViewPoint" mc="Archimate.ViewPoint" uid="ef180c9e-9989-47f5-85de-9cb54c29cb30"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

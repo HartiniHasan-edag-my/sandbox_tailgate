@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ViewPoint" version="4">
+  <OBJECT>
+    <ID name="ViewPoint" mc="Archimate.ViewPoint" uid="ef180c9e-9989-47f5-85de-9cb54c29cb30"/>
+    <PID name="Tailgate Input Evaluation" mc="Archimate.ArchimateProject" uid="10b998e4-ea8e-4d61-a60e-1acef510aa73"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[ViewPoint]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="context">
+        <ID name="Model" mc="Archimate.Model" uid="6e1561fc-e6fd-4d7f-8ed5-a8a3f8cf75e6"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="ViewPointDiagram" mc="Archimate.ViewPointDiagram" uid="9ac11ee8-2098-4c09-8449-12267f7d9852"/>
+        <COMPID name="ArchimateView" mc="Archimate.ArchimateView" uid="e49c2e6a-db59-4068-b69c-2b5fce339b75"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

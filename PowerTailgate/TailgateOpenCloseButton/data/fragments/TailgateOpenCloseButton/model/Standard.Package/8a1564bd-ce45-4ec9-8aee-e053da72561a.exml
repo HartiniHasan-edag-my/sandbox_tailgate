@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SW_DD" version="4">
+  <OBJECT>
+    <ID name="SW_DD" mc="Standard.Package" uid="8a1564bd-ce45-4ec9-8aee-e053da72561a"/>
+    <PID name="Tailgate_Open_Cls_Bttn" mc="Standard.Package" uid="4f46435e-880c-4721-8eca-d6346f856f39"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[SW_DD]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actvty_Diag" mc="Standard.Package" uid="2eb2b0c6-17b4-4bfe-806e-872a3756c7bf"/>
+        <COMPID name="Seq_Diag" mc="Standard.Package" uid="314b43c1-339b-4821-8e7c-dc6b50ff7af1"/>
+        <COMPID name="St_Mac_Diag" mc="Standard.Package" uid="d1ea819e-666c-4c72-8494-a891ec1dc45f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

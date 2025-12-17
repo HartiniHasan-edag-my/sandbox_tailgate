@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Archimate.Model" uid="decc6af7-ad49-41c0-a6f7-26ef886ce798"/>
+    <PID name="GestureDetection" mc="Archimate.ArchimateProject" uid="868ec661-e1fd-4eb8-809d-c2ea85bd9cf9"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="folder">
+        <COMPID name="Application" mc="Archimate.ApplicationFolder" uid="597e3cee-e8b4-4156-aee7-4bc75ee61f3b"/>
+        <COMPID name="Business" mc="Archimate.BusinessFolder" uid="854d9f26-3978-44c5-9081-7827b8c47739"/>
+        <COMPID name="Implementation" mc="Archimate.ImplementationFolder" uid="9aca914e-2a35-43cc-ab62-769e4a932768"/>
+        <COMPID name="Motivation" mc="Archimate.MotivationFolder" uid="7987b3b6-1d16-4351-ad41-c363ef281a1e"/>
+        <COMPID name="Physical" mc="Archimate.PhysicalFolder" uid="ff357279-c02b-4cd6-b136-f56f086ee8f6"/>
+        <COMPID name="Strategy" mc="Archimate.StrategyFolder" uid="bfe5a5af-5f2c-459e-9a4b-3f4154e4ee3e"/>
+        <COMPID name="Technology" mc="Archimate.TechnologyFolder" uid="ca06fecd-813d-4f8c-b444-173b982bce2c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

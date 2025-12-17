@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Strategy" version="4">
+  <OBJECT>
+    <ID name="Strategy" mc="Archimate.StrategyFolder" uid="7d044b26-914e-4220-8626-7f0aa6abd744"/>
+    <PID name="Model" mc="Archimate.Model" uid="6e1561fc-e6fd-4d7f-8ed5-a8a3f8cf75e6"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Strategy]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

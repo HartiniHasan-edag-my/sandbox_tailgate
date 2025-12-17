@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate Input Evaluation" version="4">
+  <OBJECT>
+    <ID name="Tailgate Input Evaluation" mc="Standard.Project" uid="5a2cda0d-42b0-4baa-8fbe-5919d7f2ac5f"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Tailgate Input Evaluation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Tailgate_Inp_Evln" mc="Standard.Package" uid="1f68c8e0-d1d5-4a4f-a615-02c90c698f53"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Tailgate Input Evaluation" mc="Infrastructure.DiagramSet" uid="2951f9b5-e61d-432f-a73e-8cbf12018900"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
