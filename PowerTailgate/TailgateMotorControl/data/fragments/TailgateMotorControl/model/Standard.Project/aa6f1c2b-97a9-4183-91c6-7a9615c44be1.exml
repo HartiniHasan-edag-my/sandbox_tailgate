@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TailgateMotorControl" version="4">
+  <OBJECT>
+    <ID name="TailgateMotorControl" mc="Standard.Project" uid="aa6f1c2b-97a9-4183-91c6-7a9615c44be1"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[TailgateMotorControl]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="tailgatemotorcontrol" mc="Standard.Package" uid="4f7de63c-22b2-426c-884a-6862d22253da"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="TailgateMotorControl" mc="Infrastructure.DiagramSet" uid="2a545b46-8984-4c20-b492-8c6b122d7a1e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

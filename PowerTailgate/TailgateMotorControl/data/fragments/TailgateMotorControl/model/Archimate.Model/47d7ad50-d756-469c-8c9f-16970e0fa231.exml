@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Model" version="4">
+  <OBJECT>
+    <ID name="Model" mc="Archimate.Model" uid="47d7ad50-d756-469c-8c9f-16970e0fa231"/>
+    <PID name="TailgateMotorControl" mc="Archimate.ArchimateProject" uid="0fbaea36-ecdb-4e88-9610-ebb3a9130a11"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="folder">
+        <COMPID name="Application" mc="Archimate.ApplicationFolder" uid="023e70c5-c2fe-4311-b0a7-f28d51c7bda4"/>
+        <COMPID name="Business" mc="Archimate.BusinessFolder" uid="6ed3ec7f-2483-4d59-b537-4182eef35185"/>
+        <COMPID name="Implementation" mc="Archimate.ImplementationFolder" uid="7fc7cc4c-265c-4050-a97f-66960b78fb96"/>
+        <COMPID name="Motivation" mc="Archimate.MotivationFolder" uid="86e84d02-443e-4a49-8c09-e60b3fba5d14"/>
+        <COMPID name="Physical" mc="Archimate.PhysicalFolder" uid="aca22740-6266-442e-8b6a-648a65ec0e8c"/>
+        <COMPID name="Strategy" mc="Archimate.StrategyFolder" uid="864a34a5-459c-4b8e-9617-433cbbf018cb"/>
+        <COMPID name="Technology" mc="Archimate.TechnologyFolder" uid="d2d58473-823a-44b2-941a-ea647364e2ea"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Motivation" version="4">
+  <OBJECT>
+    <ID name="Motivation" mc="Archimate.MotivationFolder" uid="86e84d02-443e-4a49-8c09-e60b3fba5d14"/>
+    <PID name="Model" mc="Archimate.Model" uid="47d7ad50-d756-469c-8c9f-16970e0fa231"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Motivation]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

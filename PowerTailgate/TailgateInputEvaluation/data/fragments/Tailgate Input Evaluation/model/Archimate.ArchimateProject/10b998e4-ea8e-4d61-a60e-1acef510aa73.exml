@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate Input Evaluation" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TailgateInputEvaluation" version="4">
   <OBJECT>
-    <ID name="Tailgate Input Evaluation" mc="Archimate.ArchimateProject" uid="10b998e4-ea8e-4d61-a60e-1acef510aa73"/>
+    <ID name="TailgateInputEvaluation" mc="Archimate.ArchimateProject" uid="10b998e4-ea8e-4d61-a60e-1acef510aa73"/>
     <ATTRIBUTES>
-      <ATT name="Name"><![CDATA[Tailgate Input Evaluation]]></ATT>
+      <ATT name="Name"><![CDATA[TailgateInputEvaluation]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
