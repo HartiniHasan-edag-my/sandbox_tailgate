@@ -1,6 +1,7 @@
-#Wed Dec 17 14:50:10 SGT 2025
+#Thu Dec 18 16:09:46 SGT 2025
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams0='Tailgate_Mot_Ctrl Package Diagram' {772b3ab1-a253-49c1-a753-4a3d1a0ff52c} Standard.StaticDiagram
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.module.propertytab.GModule\ [id\='SysMLArchitect',\ version\='5.4.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_SysMLPropertyPage.com.modeliosoft.modelio.archimate.perspective.parentId=archimate.ui.partstack.bottom

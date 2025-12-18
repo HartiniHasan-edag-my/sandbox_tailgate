@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Tailgate_Mot_Ctrl" version="4">
+  <OBJECT>
+    <ID name="Tailgate_Mot_Ctrl" mc="Standard.Package" uid="6e288e0c-c96e-4688-9c1c-e556eedcf721"/>
+    <PID name="TailgateMotorControl" mc="Standard.Project" uid="aa6f1c2b-97a9-4183-91c6-7a9615c44be1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Tailgate_Mot_Ctrl]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="SW_Reqmt_Spcfn" mc="Standard.Package" uid="ade8206f-8204-4d84-a75a-be288c8a257b"/>
+        <COMPID name="SW_Archit" mc="Standard.Package" uid="a2a7110e-c3c8-462c-b0e7-0871c853c0bd"/>
+        <COMPID name="SW_DD" mc="Standard.Package" uid="f1ba9ce5-6c5b-47d3-95cf-7d4dbf532819"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Tailgate_Mot_Ctrl Package Diagram" mc="Standard.StaticDiagram" uid="772b3ab1-a253-49c1-a753-4a3d1a0ff52c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -10,7 +10,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="Model">
-        <COMPID name="tailgatemotorcontrol" mc="Standard.Package" uid="4f7de63c-22b2-426c-884a-6862d22253da"/>
+        <COMPID name="Tailgate_Mot_Ctrl" mc="Standard.Package" uid="6e288e0c-c96e-4688-9c1c-e556eedcf721"/>
       </COMP>
       <COMP relation="DiagramRoot">
         <COMPID name="TailgateMotorControl" mc="Infrastructure.DiagramSet" uid="2a545b46-8984-4c20-b492-8c6b122d7a1e"/>

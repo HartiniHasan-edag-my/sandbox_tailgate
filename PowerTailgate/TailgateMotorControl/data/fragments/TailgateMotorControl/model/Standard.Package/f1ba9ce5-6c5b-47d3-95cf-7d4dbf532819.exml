@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SW_DD" version="4">
+  <OBJECT>
+    <ID name="SW_DD" mc="Standard.Package" uid="f1ba9ce5-6c5b-47d3-95cf-7d4dbf532819"/>
+    <PID name="Tailgate_Mot_Ctrl" mc="Standard.Package" uid="6e288e0c-c96e-4688-9c1c-e556eedcf721"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[SW_DD]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actvty_Diag" mc="Standard.Package" uid="30bb731a-19b7-4863-8ac5-a7e8951f24a2"/>
+        <COMPID name="Seq_Diag" mc="Standard.Package" uid="b18703c8-e56c-427f-bb98-22734b9dd083"/>
+        <COMPID name="St_Mac_Diag" mc="Standard.Package" uid="0c6dfb49-6e57-45d5-b75f-a4bc56c72299"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="b69f58a6-0d4f-4eb2-8062-8db41c009319"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[Software detail design for tailgate motor control component]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
