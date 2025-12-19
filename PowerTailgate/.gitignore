@@ -1,0 +1,12 @@
+# Modelio folders
+XMI/
+.runtime/
+data/
+data/.config/
+
+# Modelio temporary files
+
+
+# Modelio local configuration
+*.theme
+*.dat
