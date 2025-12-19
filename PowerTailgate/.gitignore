@@ -4,5 +4,6 @@
 XMI/
 .config/
 
-
+!/stamp.dat
+*.jmdac
 
