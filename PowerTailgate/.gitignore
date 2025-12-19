@@ -1,4 +1,4 @@
 # ignoring Modelio folders or files for local
 .runtime/
 XMI/
-data/.config/
+.config/
