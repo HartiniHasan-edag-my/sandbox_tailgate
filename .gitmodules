@@ -1,0 +1,3 @@
+[submodule "PowerTailgate/sandbox_MotorControl"]
+	path = PowerTailgate/sandbox_MotorControl
+	url = https://github.com/KhairolAkmalSanusi-edag-my/sandbox_MotorControl
